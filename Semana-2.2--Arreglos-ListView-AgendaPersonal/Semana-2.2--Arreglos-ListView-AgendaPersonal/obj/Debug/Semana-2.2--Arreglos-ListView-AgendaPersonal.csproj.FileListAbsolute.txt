@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\bin\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.exe.config
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\bin\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\bin\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana_2._2__Arreglos_ListView_AgendaPersonal.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana_2._2__Arreglos_ListView_AgendaPersonal.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2.2--Arreglos-ListView-AgendaPersonal\Semana-2.2--Arreglos-ListView-AgendaPersonal\obj\Debug\Semana-2.2--Arreglos-ListView-AgendaPersonal.pdb
